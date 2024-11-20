@@ -1,5 +1,4 @@
 # Justmysocks 梯子配置教程_科学上网_VPN配置_V2rayN配置教程_安卓翻墙教程
-拥有梯子后能做什么？请查看这篇文章：<a href="https://aidrawcn.com/101.html" target="_blank" rel="noopener"><strong>看看老司机们拥有梯子后都在做些什么？</strong></a>
 <h2 style="text-align: left;">一、翻墙梯子的选择</h2>
 <p style="text-align: left;">市面上有很多提供翻墙服务的服务商，但是却良莠不齐，还伴随着各种跑路商家。</p>
 <p style="text-align: left;">在这里，小编推荐自己自用了四年的<a href="https://gochatgptcn.com/go/jms" target="_blank" rel="noopener">justmysocks</a></p>
